@@ -5,7 +5,7 @@ Dt.13-12-2022
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✋👉 Summary:
 
-* This webpage is actual clone of Eminent OTT website Netflix, this represent the frontend buliding part of Website.
+* This Assignment contains 
 * This is the level 2 project of Newton School Course.
 * Through this building Webpage I tried to make worth command on HTML and CSS coding.
 * All the Asset content require to build project is provided by Newton School Team.
@@ -41,7 +41,7 @@ Dt.13-12-2022
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#🔗 Project Host Link : https://uu-uu.vercel.app/
+#🔗 Project Host Link : https://zygal-calender-assignment-amber.vercel.app/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
