@@ -5,9 +5,9 @@ Dt.13-12-2022
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✋👉 Summary:
 
-* This Assignment contains 
-* This is the level 2 project of Newton School Course.
-* Sample photo is given by Zygal Team.
+* This is the 1st Round Conducted by Zygal Comapany. 
+* Task is to make calender as per their sample pic.
+* Sample photo is given by Zygal Team in their PDF.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🎯 Objectives:
